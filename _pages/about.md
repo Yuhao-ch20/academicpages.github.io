@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 This is a personal website that also serves as a website for news updates on recently happened international legal news. 
-If you are interested in my experiences, please move to the “**Resume**” section of this website. If you are interested in the news updates, please move to the “**News**” section of this website.  
+If you are interested in my experiences, please move to the “**CV**” section of this website. If you are interested in the news updates, please move to the “**News**” section of this website.  
 
 About Me
 ======
