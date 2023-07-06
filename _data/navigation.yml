@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Updates on Laws and Regulations"
-    url: /posts/    
+    url: /year-archive/    
         
   - title: "Idea factory"
-    url: /year-archive/
+    url: /talks/
     
   - title: "CV"
     url: /cv/
