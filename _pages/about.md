@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "WELCOME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is a personal website that also serves as a website for news updates on recently happened international legal news. If you are interested in my experiences, please move to the “Resume” section of this website. If you are interested in the news updates, please move to the “News” section of this website.  
+This is a personal website that also serves as a website for news updates on recently happened international legal news. 
+If you are interested in my experiences, please move to the “**Resume**” section of this website. If you are interested in the news updates, please move to the “**News**” section of this website.  
 
 About Me
 ======
-I am a third year undergraduate student from [School of Humanities](https://www.rwxy.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I major in literature and minor in law. Also, due to the fantastic experience I had in a class at Harvard Graduate School of Education, I will sometimes come up with some idea on education and education policies. If you are interested in this, you can move to “Idea Factory” for crazy thoughts.
+I am a third year undergraduate student from [School of Humanities](https://www.rwxy.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I major in literature and minor in law. 
+Also, due to the fantastic experience I had in a class at Harvard Graduate School of Education, I will sometimes come up with some idea on education and education policies. If you are interested in this, you can move to “**Idea Factory**” for crazy thoughts.
 
 Getting started
 ======
